@@ -2,7 +2,8 @@ import React from 'react';
 
 function About() {
   return (
-    <div>
+    <div className="min-h-screen bg-blue-50">
+
       <h1 className="text-3xl font-bold text-center mb-6">About Us</h1>
       
       <div className="space-y-8">
